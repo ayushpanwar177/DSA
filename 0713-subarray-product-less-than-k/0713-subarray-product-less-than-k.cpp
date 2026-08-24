@@ -12,7 +12,6 @@ public:
         while(prod>=k){
             prod/=nums[i];
             i++;
-          
         }
         count+=j-i+1;
         j++;
