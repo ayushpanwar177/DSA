@@ -24,8 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushpanwar177/DSA/tree/master/0011-container-with-most-water) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayushpanwar177/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushpanwar177/DSA/tree/master/0011-container-with-most-water) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayushpanwar177/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## String
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayushpanwar177/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
