@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushpanwar177/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushpanwar177/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushpanwar177/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayushpanwar177/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushpanwar177/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
