@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushpanwar177/DSA/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushpanwar177/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/ayushpanwar177/DSA/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushpanwar177/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
@@ -15,6 +16,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushpanwar177/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushpanwar177/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
