@@ -19,4 +19,16 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ayushpanwar177/DSA/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
