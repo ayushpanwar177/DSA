@@ -67,4 +67,12 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ayushpanwar177/DSA/tree/master/3903-smallest-stable-index-i) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ayushpanwar177/DSA/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ayushpanwar177/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
