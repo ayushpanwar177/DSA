@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ayushpanwar177/DSA/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/ayushpanwar177/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ayushpanwar177/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushpanwar177/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ayushpanwar177/DSA/tree/master/0061-rotate-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayushpanwar177/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
