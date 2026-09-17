@@ -74,6 +74,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ayushpanwar177/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ayushpanwar177/DSA/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ayushpanwar177/DSA/tree/master/0836-rectangle-overlap) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ayushpanwar177/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
