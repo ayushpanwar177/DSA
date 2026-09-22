@@ -32,6 +32,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushpanwar177/DSA/tree/master/0409-longest-palindrome) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushpanwar177/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushpanwar177/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
