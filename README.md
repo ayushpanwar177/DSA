@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushpanwar177/DSA/tree/master/0409-longest-palindrome) |
+| [0541-reverse-string-ii](https://github.com/ayushpanwar177/DSA/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/ayushpanwar177/DSA/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ayushpanwar177/DSA/tree/master/0061-rotate-list) |
+| [0541-reverse-string-ii](https://github.com/ayushpanwar177/DSA/tree/master/0541-reverse-string-ii) |
 ## Geometry
 |  |
 | ------- |
