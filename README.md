@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/ayushpanwar177/DSA/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/ayushpanwar177/DSA/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/ayushpanwar177/DSA/tree/master/0709-to-lower-case) |
@@ -44,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ayushpanwar177/DSA/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpanwar177/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -119,6 +121,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpanwar177/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
