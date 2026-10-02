@@ -14,6 +14,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushpanwar177/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayushpanwar177/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ayushpanwar177/DSA/tree/master/3903-smallest-stable-index-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/ayushpanwar177/DSA/tree/master/0409-longest-palindrome) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushpanwar177/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Design
 |  |
 | ------- |
@@ -65,10 +68,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -124,4 +129,12 @@
 | [0020-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpanwar177/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
