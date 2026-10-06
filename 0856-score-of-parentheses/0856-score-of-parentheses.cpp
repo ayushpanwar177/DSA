@@ -8,7 +8,7 @@ public:
             } else {
                 --depth;
                 if (s[i - 1] == '(') {
-                    score += 1 << depth;
+                 score += pow(2, depth);
                 }
             }
         }
