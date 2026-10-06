@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushpanwar177/DSA/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushpanwar177/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushpanwar177/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [0541-reverse-string-ii](https://github.com/ayushpanwar177/DSA/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/ayushpanwar177/DSA/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushpanwar177/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpanwar177/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -54,6 +56,7 @@
 | [0155-min-stack](https://github.com/ayushpanwar177/DSA/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushpanwar177/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpanwar177/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushpanwar177/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -133,6 +136,7 @@
 | [0020-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushpanwar177/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpanwar177/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
