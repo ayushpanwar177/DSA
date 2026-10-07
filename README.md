@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayushpanwar177/DSA/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/ayushpanwar177/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
@@ -151,4 +152,9 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/ayushpanwar177/DSA/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ayushpanwar177/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
