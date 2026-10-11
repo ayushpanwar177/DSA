@@ -11,6 +11,7 @@
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushpanwar177/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushpanwar177/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpanwar177/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushpanwar177/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayushpanwar177/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushpanwar177/DSA/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushpanwar177/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
