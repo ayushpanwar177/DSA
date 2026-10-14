@@ -1,7 +1,7 @@
 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Leetcode Topics
 ## Array
 |  |
 | ------- |
