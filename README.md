@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushpanwar177/DSA/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayushpanwar177/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
@@ -80,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
@@ -150,6 +152,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
@@ -164,8 +167,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushpanwar177/DSA/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushpanwar177/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
