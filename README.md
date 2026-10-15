@@ -1,7 +1,7 @@
 
 
 <!---LeetCode Topics Start-->
-# Leetcode Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -13,6 +13,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushpanwar177/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushpanwar177/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpanwar177/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpanwar177/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushpanwar177/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayushpanwar177/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -32,6 +33,7 @@
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/ayushpanwar177/DSA/tree/master/0409-longest-palindrome) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpanwar177/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
@@ -176,4 +178,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpanwar177/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpanwar177/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
