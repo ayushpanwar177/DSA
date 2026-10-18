@@ -10,6 +10,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ayushpanwar177/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushpanwar177/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushpanwar177/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
@@ -140,6 +142,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bracket Sequences
 |  |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
@@ -186,4 +190,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpanwar177/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
