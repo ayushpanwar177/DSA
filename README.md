@@ -103,6 +103,7 @@
 | [0263-ugly-number](https://github.com/ayushpanwar177/DSA/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/ayushpanwar177/DSA/tree/master/0836-rectangle-overlap) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushpanwar177/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [2652-sum-multiples](https://github.com/ayushpanwar177/DSA/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushpanwar177/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushpanwar177/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/ayushpanwar177/DSA/tree/master/3870-count-commas-in-range) |
