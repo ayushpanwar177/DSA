@@ -9,6 +9,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayushpanwar177/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpanwar177/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpanwar177/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpanwar177/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/ayushpanwar177/DSA/tree/master/0263-ugly-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpanwar177/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ayushpanwar177/DSA/tree/master/0836-rectangle-overlap) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushpanwar177/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2652-sum-multiples](https://github.com/ayushpanwar177/DSA/tree/master/2652-sum-multiples) |
