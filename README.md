@@ -10,6 +10,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ayushpanwar177/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpanwar177/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/ayushpanwar177/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -34,6 +35,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ayushpanwar177/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushpanwar177/DSA/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/ayushpanwar177/DSA/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/ayushpanwar177/DSA/tree/master/0496-next-greater-element-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushpanwar177/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ayushpanwar177/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -63,6 +65,7 @@
 | [0020-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ayushpanwar177/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ayushpanwar177/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/ayushpanwar177/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushpanwar177/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ayushpanwar177/DSA/tree/master/0112-path-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ayushpanwar177/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
