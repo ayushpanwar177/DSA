@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushpanwar177/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ayushpanwar177/DSA/tree/master/0735-asteroid-collision) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushpanwar177/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushpanwar177/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushpanwar177/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushpanwar177/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayushpanwar177/DSA/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushpanwar177/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0263-ugly-number](https://github.com/ayushpanwar177/DSA/tree/master/0263-ugly-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushpanwar177/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ayushpanwar177/DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushpanwar177/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushpanwar177/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2652-sum-multiples](https://github.com/ayushpanwar177/DSA/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushpanwar177/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -120,6 +123,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushpanwar177/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushpanwar177/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/ayushpanwar177/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
@@ -226,4 +230,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushpanwar177/DSA/tree/master/0496-next-greater-element-i) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ayushpanwar177/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
